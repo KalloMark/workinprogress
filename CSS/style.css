@@ -1,5 +1,5 @@
 nav{
-    height: 5vh;
+    height: 100%;
     background-color: #000000;
 }
 
@@ -7,10 +7,17 @@ nav img{
     height: 5vh;
 }
 
+nav h3{
+    color: #e4e4e4;
+    padding: 0;
+    margin: 0;
+}
+
 #navbox{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
 }
 
 body{
