@@ -1,0 +1,14 @@
+nav{
+    height: 5vh;
+    background-color: #000000;
+}
+
+nav img{
+    height: 5vh;
+}
+
+#navbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
