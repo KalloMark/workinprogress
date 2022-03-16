@@ -42,3 +42,17 @@ body{
 #mainbox video{
     width: 55vw;
 }
+
+#videosbox video{
+    width: 20vw;
+}
+
+#videosbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#videosbox div + div{
+    margin-left: 1vw;
+}
