@@ -29,3 +29,16 @@ body{
     background-color: #e4e4e4;
     font-family: CustomFont;
 }
+
+
+/*---------------------------*/
+
+#mainbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#mainbox video{
+    width: 55vw;
+}
